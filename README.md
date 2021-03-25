@@ -1,2 +1,2 @@
-<h1><b>welcome to the kingdom</b></h1>
-h1 {text-align: center;}
+<h1><b><center>welcome to the kingdom</center></b></h1>
+
