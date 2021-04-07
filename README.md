@@ -1,8 +1,8 @@
 ### Hi there 👋
 <br>
 - 💡 I’m currently learning Automation, Machine Learning, Scripting, and Full-Stack Development
-- 😄 Pronouns: he/him
 <br>
+- 😄 Pronouns: he/him
 <br>
 
 <!--
