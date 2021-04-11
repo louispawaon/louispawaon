@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 <br>
 <p align="center">
 <img align="center" alt="killua-temp" src="https://raw.githubusercontent.com/tremor6916/tremor6916/main/killua.gif" style="max-width;100">
