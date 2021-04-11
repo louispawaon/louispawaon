@@ -1,10 +1,11 @@
 ### Hi there 👋
 <br>
+<center>
 - 💡 I’m currently learning Automation, Machine Learning, Scripting, and Full-Stack Development
 <br>
 - 😄 Pronouns: he/him
 <br>
-
+</center>
 <!--
 **tremor6916/tremor6916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
