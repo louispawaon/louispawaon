@@ -7,9 +7,7 @@
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=tremor6916&show_icons=true&theme=tokyonight")
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tremor6916a&repo=convoychat" />
-</a>
+
 "
 
 <!--
