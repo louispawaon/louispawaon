@@ -5,7 +5,7 @@
 <br>
 👹| a master in the making | he/him 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=tremor6916&show_icons=true&theme=tokyonight")
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tremor6916&show_icons=true&theme=tokyonight")
 "
 
 <!--
