@@ -5,8 +5,9 @@
 <br>
 👹| a master in the making | he/him 
 </p>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tremor6916&show_icons=true&theme=tokyonight")
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tremor6916&show_icons=true&theme=tokyonight">
+</p>
 
 <!--
 **tremor6916/tremor6916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
