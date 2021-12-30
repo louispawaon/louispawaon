@@ -7,9 +7,9 @@
 👹| a master in the making | he/him 
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tremor6916&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=louispawaon&show_icons=true&theme=tokyonight">
   <br>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=tremor6916&theme=tokyonight&hide_border=true">
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=louispawaon&theme=tokyonight&hide_border=true">
 
 </p>
 <!--
