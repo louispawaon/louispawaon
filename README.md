@@ -12,6 +12,11 @@
 <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=louispawaon&theme=tokyonight&hide_border=true">
 
 </p>
+
+<h2 align="center">CURRENT STACK</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></img><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></img><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
+</p>
 <!--
 **tremor6916/tremor6916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
