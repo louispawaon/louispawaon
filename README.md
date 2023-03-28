@@ -52,7 +52,11 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=louispawaon&theme=vision-friendly-dark&show_icons=true">
-  <img src="https://streak-stats.demolab.com?user=louispawaon&theme=dark&hide_border=true)">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louispawaon&hide_progress=false&layout=compact&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=louispawaon&theme=vision-friendly-dark&show_icons=true"></img>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=louispawaon&theme=dark&hide_border=true)"></img>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louispawaon&hide_progress=false&layout=compact&theme=dark"></img>
 </p>
