@@ -52,36 +52,7 @@
 <br>
 
 <p align="center">
-<<<<<<< HEAD
   <img src="https://github-readme-stats.vercel.app/api?username=louispawaon&theme=vision-friendly-dark&show_icons=true">
   <img src="https://streak-stats.demolab.com?user=louispawaon&theme=dark&hide_border=true)">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louispawaon&hide_progress=false&layout=compact&theme=dark">
-  
-  
 </p>
-=======
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=louispawaon&show_icons=true&theme=tokyonight">
-  <br>
-<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=louispawaon&theme=tokyonight&hide_border=true">
-
-</p>
-
-<h2 align="center">CURRENT STACK</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></img><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></img><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></img>
-</p>
-<!--
-**tremor6916/tremor6916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 9d8514ea7707b74cbd9d649e41f258b89a3bf78c
